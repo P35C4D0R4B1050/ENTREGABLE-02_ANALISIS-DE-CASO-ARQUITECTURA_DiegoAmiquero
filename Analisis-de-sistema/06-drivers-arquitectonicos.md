@@ -25,7 +25,7 @@ Proveer a una librería con presencia en varias regiones del Perú dos sistemas 
 | 2 | Seguridad | QA-02 | JWT con alcance de sucursal, TLS en el proxy, secretos de entorno, firewall y SSH con llave pública. |
 | 3 | Rendimiento | QA-03 | Caché Redis para disponibilidad (expiración corta) y catálogo (expiración mayor). |
 | 4 | Disponibilidad | QA-04 | Reinicio automático de contenedores, instancia pública en Oracle Cloud, backups de la BD de Inventario. |
-| 5 | Escalabilidad | QA-05 | Cada sucursal es una fuente; contenedores independientes con recursos asignables por servicio. |
+| 5 | Escalabilidad | QA-05 | Cada sucursal es una fuente; contenedores independientes con recursos asignables por servicio; Aumento de usuarios en campañas |
 | 6 | Modificabilidad | QA-06 | Límites claros entre servicios; contratos REST estables; pagos tras una interfaz. |
 | 7 | Portabilidad | QA-08 | Imágenes Docker multi-arch y Docker Compose por entorno. |
 
